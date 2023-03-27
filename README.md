@@ -6,4 +6,4 @@ The form is divided into two columns, where the left column contains a success m
 The right column contains the login and sign up forms, which can be toggled using the "I'm New User" and "I have an account" links.
 The code also includes some CSS and JavaScript files to style and add functionality to the form.
 
-Link: 
+Link: https://coderpartha012.github.io/Sign-up-and-log-in-page/
